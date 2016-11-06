@@ -1,0 +1,2 @@
+# WarMap.github.io
+blog
